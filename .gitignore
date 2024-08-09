@@ -1,5 +1,5 @@
 # Ignore virtual environment
-entornov/
+myenv/
 
 # Ignore Python cache files
 __pycache__/
